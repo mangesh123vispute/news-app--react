@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "James Powel",
+            "title": "Want to help beyond Giving Tuesday? Here's why cash is king for charities around US",
+            "description": "Food insecurity rose in 2022 putting pressure on food banks. Here's why food banks say cash donations are the most helpful when feeding the hungry.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/11/28/what-to-donate-to-help-hungry/71612770007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/11/28/USAT/71732065007-dsc-0193.jpg?crop=6015,3384,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-11-28T23:21:43+00:00",
+            "content": "The headquarters of the Westside Food Bank in Santa Monica, Calif. hums ahead of the Thanksgiving holiday.\r\nCans of green beans are being picked from pallets, workers wrap and label deliveries to foo… [+5535 chars]"
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "AP",
+            "title": "41 Workers Rescued After Being Trapped In Collapsed Tunnel For 17 Days In India",
+            "description": "The workers survived on food and oxygen supplied through narrow steel pipes.",
+            "url": "https://www.huffpost.com/entry/india-tunnel-collapse-rescue_n_65660c50e4b066e398b54283",
+            "urlToImage": "https://img.huffingtonpost.com/asset/65660c512200004717cf041e.jpeg?cache=XRPoVQdxYH&ops=1200_630",
+            "publishedAt": "2023-11-28T15:58:21Z",
+            "content": "This handout photo provided by the Uttarakhand State Department of Information and Public Relations shows Pushkar Singh Dhami, right, Chief Minister of the state of Uttarakhand, greeting a worker res… [+7996 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Mobility giant Bolt adopts self-driving Starship robots for food delivery",
+            "description": "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year.",
+            "url": "http://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca",
+            "publishedAt": "2023-06-22T09:17:15Z",
+            "content": "European ride-hailing firm Bolt will start using self-driving robots to deliver customers food as part of a new partnership with fellow Estonian company Starship Technologies, announced yesterday.  \r… [+2447 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Dipak K Dash",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "content": null
+        }
+    ]
+}
